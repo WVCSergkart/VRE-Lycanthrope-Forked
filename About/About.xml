@@ -1,8 +1,8 @@
 <ModMetaData>
-	<name>Vanilla Races Expanded - Lycanthrope</name>
-	<author>Oskar Potocki, Sarg Bjornson</author>
+	<name>VRE - Lycanthrope Forked</name>
+	<author>Original: Oskar Potocki, Sarg Bjornson. Fork: Sergkart</author>
 	<supportedVersions>
-		<li>1.4</li>
+		<!-- <li>1.4</li> -->
 		<li>1.5</li>
 	</supportedVersions>
 	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
@@ -23,6 +23,12 @@
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
 		</li>
+		<li>
+			<packageId>wvc.sergkart.races.biotech</packageId>
+			<displayName>WVC - Xenotypes and Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2886992038</steamWorkshopUrl>
+			<downloadUrl>https://github.com/WVCSergkart/WVC_RacesBiotech</downloadUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
@@ -31,11 +37,13 @@
 		<li>Ludeon.RimWorld.Biotech</li>
 		<li>brrainz.harmony</li>
 		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>wvc.sergkart.races.biotech</li>
 	</loadAfter>
-	<packageId>vanillaracesexpanded.lycanthrope</packageId>
-	<description>Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types of xenohumans, complete with their own unique genes, behaviors, mechanics and items.
+	<incompatibleWith>
+		<li>vanillaracesexpanded.lycanthrope</li>
+	</incompatibleWith>
+	<packageId>vanillaracesexpanded.lycanthrope.forked</packageId>
+	<description>Fork with integration with WVC - Xenotypes and Genes mod. This version differs from the original by some removed mechanics and changes made to the code. The VRE Morpher was replaced by the Morpher from XenoGenes, and all genes associated with the VRE Morpher were removed.
 
-Vanilla Races Expanded - Lycanthrope aims to bring a unique new archite-powered being into existence. Lycanthropes are seemingly simple baseliners with a unique ability to morph into a powerful lycan form. These lycans look similar to werewolves and excel in unarmed combat. Their rage and rapid regeneration allows them to sustain severe damage, while their claws and bites will shred even armored enemies to pieces.
-
-The functionality of the morph gene is extended further, allowing the Morph gene to appear in any genepacks, and morph into any of the existing xenotypes.</description>
+Note that this version is not compatible with the original and mods that are based on or depend on it.</description>
 </ModMetaData>

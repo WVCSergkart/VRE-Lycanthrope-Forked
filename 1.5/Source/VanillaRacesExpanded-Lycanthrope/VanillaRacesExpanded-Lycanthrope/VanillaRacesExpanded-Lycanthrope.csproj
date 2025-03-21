@@ -307,17 +307,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abilities\CompAbilityEffect_Morph.cs" />
-    <Compile Include="Abilities\CompAbilityEffect_ReimplantGermline.cs" />
     <Compile Include="Abilities\CompAbilityEffect_WarHowl.cs" />
-    <Compile Include="Abilities\Properties\CompProperties_AbilityReimplantGermline.cs" />
     <Compile Include="Abilities\Properties\CompProperties_WarHowl.cs" />
-    <Compile Include="Abilities\Properties\CompProperties_AbilityMorph.cs" />
-    <Compile Include="AI\JobDriver_AbsorbGermline.cs" />
     <Compile Include="DefModExtensions\MorphGeneDefExtension.cs" />
     <Compile Include="DefOfs\InternalDefOf.cs" />
-    <Compile Include="Defs\MorphGeneTemplateDef.cs" />
-    <Compile Include="Harmony\GeneDefGenerator_ImpliedGeneDefs.cs" />
     <Compile Include="Harmony\HarmonyInstance.cs" />
     <Compile Include="Harmony\InteractionWorker_Interacted.cs" />
     <Compile Include="Harmony\Pawn_InteractionsTracker_StartSocialFight.cs" />
@@ -338,6 +331,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AI\" />
+    <Folder Include="Defs\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -250,7 +250,7 @@ namespace VanillaRacesExpandedLycanthrope
             {
                 return false;
             }
-            if (!pawn.genes.HasGene(InternalDefOf.VRE_GermlineReimplanter))
+            if (!pawn.genes.HasActiveGene(InternalDefOf.VRE_GermlineReimplanter))
             {
                 return false;
             }

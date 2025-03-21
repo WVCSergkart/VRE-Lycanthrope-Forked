@@ -14,24 +14,24 @@ namespace VanillaRacesExpandedLycanthrope
 
      
 
-        public static MorphGeneTemplateDef VRE_Morphs;
+        //public static MorphGeneTemplateDef VRE_Morphs;
 
-        public static AbilityDef VRE_Morph;
+        //public static AbilityDef VRE_Morph;
 
-        public static GeneDef VRE_Morphs_NocturnalMorphing;
-        public static GeneDef VRE_Morphs_AdulthoodMorphing;
-        public static GeneDef VRE_Morphs_SeasonalMorphing;
-        public static GeneDef VRE_Morphs_DamageMorphing;
-        public static GeneDef VRE_Morphs_RandomMorphing;
+        //public static GeneDef VRE_Morphs_NocturnalMorphing;
+        //public static GeneDef VRE_Morphs_AdulthoodMorphing;
+        //public static GeneDef VRE_Morphs_SeasonalMorphing;
+        //public static GeneDef VRE_Morphs_DamageMorphing;
+        //public static GeneDef VRE_Morphs_RandomMorphing;
         public static GeneDef VRE_Photophobia;
         public static GeneDef VRE_PackMentality;
-        public static GeneDef VRE_GermlineReimplanter;
+        //public static GeneDef VRE_GermlineReimplanter;
 
         public static PawnRelationDef VRE_PackMember;
 
         public static HediffDef VRE_WarHowlHediff;
-        public static HediffDef VRE_EndogerminationComa;
-        public static HediffDef VRE_EndogermLossShock;
+        //public static HediffDef VRE_EndogerminationComa;
+        //public static HediffDef VRE_EndogermLossShock;
 
         public static EffecterDef CocoonDestroyed;
 
@@ -42,7 +42,7 @@ namespace VanillaRacesExpandedLycanthrope
 
         public static PawnKindDef VRE_WolfmenPawnKindDef;
 
-        public static JobDef VRE_AbsorbGermline;
+        //public static JobDef VRE_AbsorbGermline;
 
         static InternalDefOf()
         {
