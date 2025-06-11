@@ -85,7 +85,7 @@ namespace VanillaRacesExpandedLycanthrope
 
             quest.Letter(LetterDefOf.NegativeEvent, null, null, null, null, useColonistsFromCaravanArg: false, QuestPart.SignalListenMode.OngoingOnly, shuttlePawns, filterDeadPawnsFromLookTargets: false, "[wolfmanShuttleCrashedLetterText]", null, "[wolfmanShuttleCrashedLetterLabel]");
             quest.AddShipJob_Arrive(transportShip, map.Parent, null, shuttleCrashPosition, ShipJobStartMode.Force_DelayCurrent, faction);
-            quest.DefendPoint(map.Parent, shuttleCrashPosition, shuttlePawns, faction, null, null, 5f);
+            quest.DefendPoint(map.Parent, null, shuttleCrashPosition, shuttlePawns, faction, null, null, 5f);
 
 
 

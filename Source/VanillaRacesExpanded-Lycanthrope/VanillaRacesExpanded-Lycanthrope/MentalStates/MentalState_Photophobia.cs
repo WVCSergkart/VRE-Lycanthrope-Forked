@@ -16,9 +16,9 @@ namespace VanillaRacesExpandedLycanthrope
             return RandomSocialMode.Off;
         }
 
-        public override void MentalStateTick()
+        public override void MentalStateTick(int delta)
         {
-            base.MentalStateTick();
+            base.MentalStateTick(delta);
             if (pawn.IsHashIntervalTick(30))
             {
                 if (lastLightSeenTick < 0 || ThoughtWorker_Photophobia.Light(pawn))
