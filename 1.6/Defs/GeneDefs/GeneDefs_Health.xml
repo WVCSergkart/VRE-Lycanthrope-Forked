@@ -11,7 +11,7 @@
 		<displayOrderInCategory>60.01</displayOrderInCategory>
 		<biostatMet>-2</biostatMet>
 		<conditionalStatAffecters>
-			<li Class="VanillaGenesExpanded.ConditionalStatAffecter_Darkness">
+			<li Class="VEF.Genes.ConditionalStatAffecter_Darkness">
 				<statFactors>
 					<WorkSpeedGlobal>1.05</WorkSpeedGlobal>
 					<MoveSpeed>1.1</MoveSpeed>

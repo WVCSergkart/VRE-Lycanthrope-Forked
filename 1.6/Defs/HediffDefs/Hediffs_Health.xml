@@ -12,7 +12,7 @@
 		<maxSeverity>1.0</maxSeverity>
 		<isBad>false</isBad>
 		<comps>
-			<li Class="AnimalBehaviours.HediffCompProperties_Floating">
+			<li Class="VEF.AnimalBehaviours.HediffCompProperties_Floating">
 
 			</li>
 		</comps>

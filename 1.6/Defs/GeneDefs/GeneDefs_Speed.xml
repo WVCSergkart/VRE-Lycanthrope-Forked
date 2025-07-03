@@ -61,7 +61,7 @@
 			</suffixSymbols>
 		</symbolPack>
 		<modExtensions>
-			<li Class="VanillaGenesExpanded.GeneExtension">
+			<li Class="VEF.Genes.GeneExtension">
 				<hediffToWholeBody>VRE_MoveSpeed_ExtremelyQuick</hediffToWholeBody>
 			</li>
 		</modExtensions>

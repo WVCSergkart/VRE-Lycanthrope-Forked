@@ -8,12 +8,12 @@
 		<iconPath>UI/Icons/Genes/Gene_Territorial</iconPath>
 		<displayOrderInCategory>1000</displayOrderInCategory>
 		<conditionalStatAffecters>
-			<li Class="VanillaGenesExpanded.ConditionalStatAffecter_OutsideColonyMap">
+			<li Class="VEF.Genes.ConditionalStatAffecter_OutsideColonyMap">
 				<statOffsets>
 					<MentalBreakThreshold>0.20</MentalBreakThreshold>
 				</statOffsets>
 			</li>
-			<li Class="VanillaGenesExpanded.ConditionalStatAffecter_InColonyMap">
+			<li Class="VEF.Genes.ConditionalStatAffecter_InColonyMap">
 				<statOffsets>
 					<MentalBreakThreshold>-0.20</MentalBreakThreshold>
 				</statOffsets>

@@ -14,7 +14,7 @@
 			<li>VRE_LightSensitivity</li>
 		</exclusionTags>
 		 <conditionalStatAffecters>
-      <li Class="VanillaGenesExpanded.ConditionalStatAffecter_AnyLightSensitivity">
+      <li Class="VEF.Genes.ConditionalStatAffecter_AnyLightSensitivity">
         <statFactors>
           <MoveSpeed>0.9</MoveSpeed>
         </statFactors>
@@ -36,7 +36,7 @@
 			<li>VRE_LightSensitivity</li>
 		</exclusionTags>
 		 <conditionalStatAffecters>
-      <li Class="VanillaGenesExpanded.ConditionalStatAffecter_AnyLightSensitivity">
+      <li Class="VEF.Genes.ConditionalStatAffecter_AnyLightSensitivity">
         <statFactors>
           <MoveSpeed>0.8</MoveSpeed>
         </statFactors>
