@@ -3,18 +3,20 @@
 
 
 	
-	<HediffDef>
+	<HediffDef ParentName="WVC_XenotypesAndGenes_Hediffs_Base">
 		<defName>VRE_MoveSpeed_ExtremelyQuick</defName>
 		<label>extremely quick</label>
 		<description>This person moves extremely quick. They will ignore terrain movement costs when moving.</description>
-		<hediffClass>HediffWithComps</hediffClass>
-		<scenarioCanAdd>false</scenarioCanAdd>
-		<maxSeverity>1.0</maxSeverity>
-		<isBad>false</isBad>
+		<stages>
+			<li>
+				<becomeVisible>false</becomeVisible>
+			</li>
+		</stages>
 		<comps>
 			<li Class="VEF.AnimalBehaviours.HediffCompProperties_Floating">
-
+				<checkingInterval>5000</checkingInterval>
 			</li>
+			<li Class="WVC_XenotypesAndGenes.HediffCompProperties_GeneHediff"/>
 		</comps>
 	</HediffDef>
 	

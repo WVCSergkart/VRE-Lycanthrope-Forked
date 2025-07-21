@@ -6,6 +6,7 @@
 		<labelShortAdj>super fast</labelShortAdj>
 		<description>Carriers of this gene have a special type of muscle-stimulating cell that allows them to move at superhuman speeds.</description>
 		<iconPath>UI/Icons/Genes/Gene_ExtremelyFastRunner</iconPath>
+		<geneClass>WVC_XenotypesAndGenes.Gene_AddOrRemoveHediff</geneClass>
 		<customEffectDescriptions>
 			<li>Colonist will ignore terrain movement costs</li>
 		</customEffectDescriptions>
@@ -61,8 +62,11 @@
 			</suffixSymbols>
 		</symbolPack>
 		<modExtensions>
-			<li Class="VEF.Genes.GeneExtension">
-				<hediffToWholeBody>VRE_MoveSpeed_ExtremelyQuick</hediffToWholeBody>
+			<!-- <li Class="VEF.Genes.GeneExtension"> -->
+				<!-- <hediffToWholeBody>VRE_MoveSpeed_ExtremelyQuick</hediffToWholeBody> -->
+			<!-- </li> -->
+			<li Class="WVC_XenotypesAndGenes.GeneExtension_Giver">
+				<hediffDefName>VRE_MoveSpeed_ExtremelyQuick</hediffDefName>
 			</li>
 		</modExtensions>
 	</GeneDef>
