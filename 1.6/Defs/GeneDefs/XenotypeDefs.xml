@@ -43,7 +43,7 @@
 		<li>VRE_Territorial</li>
 		<li Name="AlphaGenesSwapLycans">VRE_Nocturnal</li>
 		<li>VRE_MoveSpeed_ExtremelyQuick</li>
-		<li>VRE_SpeechInability</li>
+		<li>WVC_AgeDebuff_Social</li>
 		<li>VRE_ImprovedDodge</li>
 		<li>VRE_LightSensitivity</li>
 		<li>VRE_CanineEars</li>

@@ -310,6 +310,7 @@
     <Compile Include="Abilities\CompAbilityEffect_WarHowl.cs" />
     <Compile Include="Abilities\Properties\CompProperties_WarHowl.cs" />
     <Compile Include="DefOfs\InternalDefOf.cs" />
+    <Compile Include="Harmony\Patch_BackCompatibility_BackCompatibleDefName.cs" />
     <Compile Include="Harmony\HarmonyInstance.cs" />
     <Compile Include="Harmony\InteractionWorker_Interacted.cs" />
     <Compile Include="Harmony\Pawn_InteractionsTracker_StartSocialFight.cs" />
