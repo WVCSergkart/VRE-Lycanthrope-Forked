@@ -15,7 +15,7 @@
 		<li>WVC_Morpher</li>
 		<li>WVC_MorphCondition_Nocturnal</li>
 		<li>WVC_MorphTargeter_Lycan</li>
-		<li>VRE_PackMentality</li>
+		<li>WVC_PackMentality</li>
 		<li>DarkVision</li>
 		<li Name="AlphaGenesSwapLycans">VRE_Nocturnal</li>
 		<li>WVC_ChestFur</li>
@@ -37,7 +37,8 @@
 		<li>WVC_Morpher</li>
 		<li>WVC_MorphCondition_Diurnal</li>
 		<li>WVC_MorphTargeter_Wolfman</li>
-		<li>VRE_PackMentality</li>
+		<!-- <li>VRE_PackMentality</li> -->
+		<li>WVC_PackMentality</li>
 		<li>VRE_SuperiorDarkVision</li>
 		<li>VRE_WarHowl</li>
 		<li>VRE_Territorial</li>

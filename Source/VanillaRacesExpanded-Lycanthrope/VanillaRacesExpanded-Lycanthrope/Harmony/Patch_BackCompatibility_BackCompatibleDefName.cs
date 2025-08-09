@@ -20,10 +20,10 @@ namespace VanillaRacesExpandedLycanthrope
                 {
                     __result = "WVC_AgeDebuff_Social";
                 }
-                //if (defName == "VRE_SpeechInability")
-                //{
-                //    __result = "WVC_AgeDebuff_Social";
-                //}
+                if (defName == "VRE_PackMentality")
+                {
+                    __result = "WVC_PackMentality";
+                }
                 //if (defName == "VRE_SpeechInability")
                 //{
                 //    __result = "WVC_AgeDebuff_Social";

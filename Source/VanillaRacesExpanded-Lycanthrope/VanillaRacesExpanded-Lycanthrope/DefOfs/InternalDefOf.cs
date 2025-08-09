@@ -24,10 +24,10 @@ namespace VanillaRacesExpandedLycanthrope
         //public static GeneDef VRE_Morphs_DamageMorphing;
         //public static GeneDef VRE_Morphs_RandomMorphing;
         public static GeneDef VRE_Photophobia;
-        public static GeneDef VRE_PackMentality;
+        //public static GeneDef VRE_PackMentality;
         //public static GeneDef VRE_GermlineReimplanter;
 
-        public static PawnRelationDef VRE_PackMember;
+        //public static PawnRelationDef VRE_PackMember;
 
         public static HediffDef VRE_WarHowlHediff;
         //public static HediffDef VRE_EndogerminationComa;
