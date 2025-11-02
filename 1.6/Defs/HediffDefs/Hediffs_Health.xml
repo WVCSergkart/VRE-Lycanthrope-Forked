@@ -7,6 +7,7 @@
 		<defName>VRE_MoveSpeed_ExtremelyQuick</defName>
 		<label>extremely quick</label>
 		<description>This person moves extremely quick. They will ignore terrain movement costs when moving.</description>
+		<allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
 		<stages>
 			<li>
 				<becomeVisible>false</becomeVisible>
@@ -27,6 +28,7 @@
 		<description>Increase to combat capabilities caused by the warhowl ability. Stacks up to 10 times and lasts 3 hours.</description>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>false</scenarioCanAdd>
+		<allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
 		<comps>		
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>7500~7500</disappearsAfterTicks>
