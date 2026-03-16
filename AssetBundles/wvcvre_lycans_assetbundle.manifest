@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.10f1
+CRC: 2367168502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6954ccbb0d20ddf9cef036c5f416cbf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9805626a0a960da8f69a56443df5de53
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ec744c1f9289ce79236448d158e4eca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/HeadAttachments/CanineEars/CanineEars_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_SuperiorDodge.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Materson_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_Warhowl.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Xenotypes/Wolfman.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Morgan_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/HeadAttachments/CanineEars/CanineEars_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Pat_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Hickock_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Materson_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Virgil_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Allison_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/BodyAttachments/WolfTail/WolfTail_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_NoseCanine.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Bill_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Boswell_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Virgil_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_ExtremelyFastRunner.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Virgil_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_PackMentality.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_Photophobia.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_SpeechInability.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Boswell_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Allison_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_Chestfur.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Materson_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Sounds/Warhowl/OneShot_Warhowl_01c.ogg
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/BodyAttachments/WolfTail/WolfTail_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Basset_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Holliday_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/HeadAttachments/CanineNose/CanineNose_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Xenotypes/Lycan.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Morgan_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_SuperiorDarkVision.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_ImprovedDodge.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/HeadAttachments/CanineNose/CanineNose_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Sounds/Warhowl/OneShot_Warhowl_01d.ogg
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Hays_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Morgan_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Allison_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Hays_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Hays_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Hickock_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_LightSensitivity.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Pat_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Holliday_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Sounds/Morph/OneShot_Morph_01a.ogg
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_DodgeDisabled.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_LightSensitivityIntense.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Hickock_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Pat_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Holliday_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_TailWolf.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Boswell_north.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_BeardStyleSideburnsOnly.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_Territorial.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Sounds/Warhowl/OneShot_Warhowl_01b.ogg
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Bill_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Basset_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Sounds/Warhowl/OneShot_Warhowl_01a.ogg
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_EarCanine.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Basset_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/BodyAttachments/WolfTail/WolfTail_south.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/HeadAttachments/CanineEars/CanineEars_east.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Abilities/Warhowl.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/UI/Icons/Genes/Gene_Nocturnal.png
+- Assets/Data/vanillaracesexpanded.lycanthrope.forked/Textures/Things/Pawn/Humanlike/Beards/Bill_east.png
+Dependencies: []
