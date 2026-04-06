@@ -111,9 +111,20 @@ namespace VanillaRacesExpandedLycanthrope
                 quest.End(QuestEndOutcome.Fail, 0, null, null);
 
             });
-            
 
-            quest.Delay(30000, delegate
+			quest.AnySignal(new string[1] { inSignal }, delegate
+			{
+				RewardsGeneratorParams parms = new RewardsGeneratorParams
+				{
+					rewardValue = 1000,
+					thingRewardRequired = true,
+					allowXenogermReimplantation = true
+				};
+				QuestGen_Rewards.GiveRewards(asker: pawn, overridePopulationIntent: 0f, quest: quest, parms: parms, inSignal: inSignal, customLetterLabel: null, customLetterText: null, customLetterLabelRules: null, customLetterTextRules: null, useDifficultyFactor: null, runIfChosenPawnSignalUsed: null, variants: num);
+
+			});
+
+			quest.Delay(30000, delegate
             {
                 
              
